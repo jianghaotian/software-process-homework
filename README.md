@@ -14,7 +14,7 @@ Github：https://github.com/lemonoink/software-process-homework
   * Github：https://github.com/LIXUECHUN
 * 赵一鸣
   * Github：https://github.com/Yzhaoyiming
-* 马晓燕
+* 马晓艳
   * Github：https://github.com/maxiaoyanD
 * 曾雨晴
   * Github：https://github.com/zengyuqing0903
