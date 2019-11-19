@@ -1,6 +1,6 @@
 # 《一封》 —— HTML5与移动互联网开发
 
-Github：https://github.com/lemonoink/software-process-homework
+Github：https://github.com/lemonoink/one_envelope
 
 ## 项目简介
 
