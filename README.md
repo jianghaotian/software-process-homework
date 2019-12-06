@@ -8,10 +8,10 @@ Github：https://github.com/lemonoink/one_envelope
 
 ## 项目成员
 
-* 姜皓天
-  * Github：https://github.com/lemonoink
 * 李雪纯
   * Github：https://github.com/LIXUECHUN
+* 姜皓天
+  * Github：https://github.com/lemonoink
 * 赵一鸣
   * Github：https://github.com/Yzhaoyiming
 * 马晓艳
